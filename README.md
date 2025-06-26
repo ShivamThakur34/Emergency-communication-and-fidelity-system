@@ -1,3 +1,6 @@
+This project has involved LoRa module, esp32 wroom DA as microcontroller alongwith the NFC module. 
+The working of project involves master and slave concept. 
+
 # Adafruit-PN532 [![Build Status](https://github.com/adafruit/Adafruit-PN532/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit-PN532/actions)
 
 
